@@ -1,0 +1,4 @@
+Harry;lecturer;biology;1;2,3
+Bob;associate prof;4;1,4
+Sarah;lecturer;astronomy;3;4,2
+Lauren;assistant prof;computer science;2;3,1

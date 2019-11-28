@@ -1,0 +1,4 @@
+Adam;freshman;business;3.5;1
+James;sophomore biology;4.0;2
+Hannah;junior;engineering;4.0;4
+Lauren;senior;chemistry;3.7;3
